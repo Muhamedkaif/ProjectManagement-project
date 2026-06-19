@@ -181,6 +181,9 @@ VITE_API_URL=http://localhost:5000/api
 * Calendar Integration
 
 ---
+## Mock Account for exploring the application
+gmail : test@gmail.com
+password : 123456
 
 ## Author
 
