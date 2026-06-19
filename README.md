@@ -85,7 +85,7 @@ The application is designed to improve team productivity by providing a centrali
 ### Clone Repository
 
 ```bash
-git clone (https://github.com/Muhamedkaif/ProjectManagement-project.git)
+git clone https://github.com/Muhamedkaif/ProjectManagement-project.git
 cd Project-Management-project
 ```
 
