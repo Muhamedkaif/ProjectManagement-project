@@ -30,7 +30,7 @@ export const clearToken = () => {
 // ─── Axios instance ───────────────────────────────────────────────────────────
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/api',
+  baseURL: 'https://projectmanagement-project.onrender.com',
   headers: { 'Content-Type': 'application/json' },
   timeout: 10_000,                        // 10 s timeout
   withCredentials: false,                 // flip to true if you switch to cookie-based auth
