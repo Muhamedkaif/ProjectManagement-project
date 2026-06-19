@@ -182,7 +182,7 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 ## Mock Account for exploring the application
-gmail : test@gmail.com
+gmail :
 password : 123456
 
 ## Author
