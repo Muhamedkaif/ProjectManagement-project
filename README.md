@@ -184,6 +184,7 @@ VITE_API_URL=http://localhost:5000/api
 ## Mock Account for exploring the application
 gmail : test@example.com
 password : 123456
+Live URL : https://project-management-project-xi.vercel.app/login
 
 ## Author
 
